@@ -42,6 +42,11 @@ void selectionSort(int* arr, int n) {
 }
 
 void teste() {
+    /*
+     * This block is an example of code to get benchmark points.
+     * Replace all contents to get your own program points.
+    */
+    
     int n = 1000;
     int* arr = malloc(n * sizeof(int));
 
