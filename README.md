@@ -24,3 +24,4 @@ Será criado um arquivo de texto chamado logs.txt com os dados do benchmark.
 - `-r <numero>`: Para mudar o número de vezes que o teste é executado.
 	(melhora a precisão do cálculo de pontos, porém demora mais para obter o resultado).
 - Exemplo de uso: `$benchmark -r 3 -f benchmark.txt`
+- A coluna Pontos exibe um valor de referência somente para comparação entre computadores diferentes.
